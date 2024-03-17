@@ -1,3 +1,7 @@
+// Below is a basic implementation of the Feedback Mechanism Module in C:
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
