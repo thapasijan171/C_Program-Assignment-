@@ -27,7 +27,7 @@ int main() {
     return 0;
 }
 
-// Function to prompt user for integer input
+// Function to prompt user for integer input.
 int promptInt(const char* message) {
     int input;
     char buffer[100];
